@@ -1,0 +1,74 @@
+POST http://localhost:8766/user/addUser
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json;charset=UTF-8
+
+{"username":"test1","password":"aaaaaa"}
+
+###
+
+POST http://localhost:8766/user/addUser
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json;charset=UTF-8
+
+{"username":"test1","password":"aaaaaa"}
+
+<> 2018-11-28T033544.200.json
+
+###
+
+POST http://localhost:8766/user/addUser
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json;charset=UTF-8
+
+{"username":"test1","password":"aaaaaa"}
+
+<> 2018-11-28T033436.200.json
+
+###
+
+POST http://localhost:8766/user/addUser
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json;charset=UTF-8
+
+{"username":"test1","password":"aaaaaa"}
+
+<> 2018-11-28T033435-1.200.json
+
+###
+
+POST http://localhost:8766/user/addUser
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json;charset=UTF-8
+
+{"username":"test1","password":"aaaaaa"}
+
+<> 2018-11-28T033435.200.json
+
+###
+
+POST http://localhost:8766/user/addUser
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json;charset=UTF-8
+
+{"username":"test1","password":"aaaaaa"}
+
+<> 2018-11-28T033040.200.json
+
+###
+
+POST http://localhost:8766/user/addUser
+Accept: */*
+Cache-Control: no-cache
+
+{"username":"test1","password":"aaaaaa"}
+
+<> 2018-11-28T032956.415.json
+
+###
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-app" />
+        <module name="springcloud-config" />
+        <module name="springcloud-gateway" />
+        <module name="springcloud-microA" />
+        <module name="springcloud-microB" />
+        <module name="springcloud-reg" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
